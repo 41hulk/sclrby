@@ -1,5 +1,5 @@
 require 'time'
-require_relative 'nameable_decorators/nameable'
+require_relative 'nameable'
 require_relative 'rental'
 
 class Person < Nameable
